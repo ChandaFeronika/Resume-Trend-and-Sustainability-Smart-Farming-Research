@@ -1,4 +1,6 @@
 # Resume-Trend-and-Sustainability-Smart-Farming-Research
+Narasumber : Dr. Hanif Fakhrurroja, S.Si., M.T
+
 1. Apa Itu Pertanian Pintar? Pertanian pintar menggunakan teknologi canggih untuk membuat pertanian lebih efisien dan ramah lingkungan. Ini termasuk penggunaan sensor, robot, dan data untuk memantau dan mengelola tanaman dengan lebih baik.
 
 2. Tren Terbaru dalam Pertanian Pintar
